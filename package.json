@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-website-stripe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express.js": "^1.0.0",
+    "nodemon": "^3.0.1",
+    "stripe": "^14.1.0"
+  }
+}
